@@ -51,6 +51,7 @@
 
     .rotate {
         width: 180px;
+        accent-color: rgb(80, 43, 226);
     }
 
     .inputvert {
@@ -59,6 +60,7 @@
         -webkit-appearance: slider-vertical;
         height: 180px;
         width: 20px;
+        accent-color: rgb(80, 43, 226);
     }
 
     .xypad {
@@ -67,7 +69,8 @@
         aspect-ratio: 1;
         border-radius: 10%;
         border: 2px solid;
-        border-color: rgb(94, 45, 255);
+        border-color: rgb(80, 43, 226);
+        
     }
 
 

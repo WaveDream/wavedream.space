@@ -40,16 +40,6 @@
 
 <style>
 
-    /* #sliders {
-        margin: 10px;
-        width: 100%;
-    } */
-
-    /* span {
-        color: rgb(100, 122, 141);
-        margin: 20px;
-    } */
-
     #main {
         background-color: orange;
         display: flex;
